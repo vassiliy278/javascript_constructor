@@ -1,2 +1,2 @@
 # Javascript Constructor (pure JS)
-visit le ltnk [https://javascript-contructor-6dbbb.web.app/]
+visit le [link](https://javascript-contructor-6dbbb.web.app/)
