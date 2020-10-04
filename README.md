@@ -1,2 +1,2 @@
 # Javascript Constructor (pure JS) from Vladilen Minin
-visit le [link](https://javascript-contructor-6dbbb.web.app/)
+Deployed on Firebase, Visit Le [link](https://javascript-contructor-6dbbb.web.app/)
